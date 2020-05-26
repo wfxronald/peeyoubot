@@ -1,0 +1,8 @@
+requests
+fuzzywuzzy
+python-Levenshtein
+sqlalchemy
+psycopg2
+python-telegram-bot
+flask
+gunicorn
